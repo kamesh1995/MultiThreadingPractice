@@ -4,6 +4,7 @@ public class ThreadClassWithOveriddingStartMethod extends Thread{
 
     @Override
     public void start(){
+        super.start();
         System.out.println("start method");
     }
 

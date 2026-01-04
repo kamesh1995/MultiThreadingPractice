@@ -1,4 +1,4 @@
-package definingthread;
+package definingThreadWithExtendingThreadClass;
 
 public class MyThread extends Thread{
     public void run(){

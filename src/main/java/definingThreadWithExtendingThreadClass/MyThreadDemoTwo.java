@@ -1,4 +1,4 @@
-package definingthread;
+package definingThreadWithExtendingThreadClass;
 
 public class MyThreadDemoTwo {
     public static void main(String[] args) {
